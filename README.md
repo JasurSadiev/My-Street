@@ -1,4 +1,4 @@
-# My React Project with Tailwind CSS
+# React Project with Tailwind CSS
 
 A simple and responsive web application built using **React.js** and **Tailwind CSS**.
 
