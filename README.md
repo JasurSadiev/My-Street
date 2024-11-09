@@ -1,29 +1,52 @@
-# React + Vite
+# My React Project with Tailwind CSS
 
-## Information for Citizens
-## What is My Street?
+A simple and responsive web application built using **React.js** and **Tailwind CSS**.
 
-My Street is an independent platform where citizens can report issues in their communities directly to the responsible local authorities. This transparency enables better tracking and resolution of public issues.
+## Table of Contents
 
-## Is this a council website?
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Running the Application](#running-the-application)
+- [Building for Production](#building-for-production)
+- [Technologies Used](#technologies-used)
+- [Folder Structure](#folder-structure)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-No, it isn't. However, My Street forwards reports directly to your local council or the authority responsible for addressing the issue. Reports are also published online so the community can stay informed and engaged.
+---
 
-## Then who are you? And why are you doing this?
+## Overview
 
-Our goal is to simplify the process of reporting issues within communities, making it accessible even if you don’t know the exact responsible authority. With My Street, simply enter your location, describe the issue, and we’ll handle the rest.
+This project is a **Issue Reporting Website** where users can report public issues—such as infrastructure damage, safety hazards, or environmental concerns—directly to government authorities. The goal is to facilitate faster response and resolution for community problems.
 
-## How can I contact you?
+## Features
 
-Feel free to reach out via our contact form. But before that, please take a moment to see if these FAQs answer your question.
+- **Responsive Design** – Ensures compatibility with various devices and screen sizes.
+- **Component-Based** – Built using reusable and modular React components.
+- **Styled with Tailwind CSS** – Rapid styling using a utility-first CSS framework.
 
-# Using My Street
-## How Do I Make a Report?
 
-Go to the homepage and enter your postcode or location. You can also use “use my location” if you're not sure where you are.
-Mark the issue location on the map, describe the problem, and submit your report.
-Check your email for a confirmation link. Click the link, and your report is officially submitted!
+## Installation
 
-## What Can I Report?
+### Prerequisites
 
-My Street is for issues needing fixing, cleaning, or clearing, such as graffiti, dog fouling, potholes, or malfunctioning street lights
+- **Node.js** (v14 or later)
+- **npm** or **yarn**
+
+### Steps
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/JasurSadiev/My-Street/
+2. Install dependencies:
+   npm install
+3. npm start
+   
+##Technologies Used
+React.js – JavaScript library for building user interfaces.
+Tailwind CSS – Utility-first CSS framework.
+Node.js – JavaScript runtime environment.
+npm – Package managers.
+
