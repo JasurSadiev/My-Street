@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.homebg{
+  background-image: url("./assets/Bishkek.jpg");
+  background-position: center 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  backdrop-filter: blur(10px);
+}
+
+.logo{
+
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.openBudget{
+  background-image: url("./assets/open\ budget.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.bgsolid{
+  background-image: url("./assets/blue-abstract-gradient-wave-wallpaper.jpg");
+  background-position: center;
+  background-size: 100vw 100vh;
+  background-repeat: no-repeat;
+}
